@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 058777becbf42496a955b96aaad2ee8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Materials/Chicken/material_chicken.mat
+  uploadId: 531605

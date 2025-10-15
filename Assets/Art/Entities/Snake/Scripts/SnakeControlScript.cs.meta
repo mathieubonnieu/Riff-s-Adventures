@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7172ecdfc6d142a9bd00cc7ac31c02f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Scripts/Snake/SnakeControlScript.cs
+  uploadId: 531605

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18ec1f4cd29cb4be08c1ae525aa9d61f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Bat/attack.anim
+  uploadId: 531605

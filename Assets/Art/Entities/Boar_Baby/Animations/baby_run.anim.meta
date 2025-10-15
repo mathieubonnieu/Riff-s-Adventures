@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a68b8f5013a5d4740a6014ff548050fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Boar_Baby/baby_run.anim
+  uploadId: 531605

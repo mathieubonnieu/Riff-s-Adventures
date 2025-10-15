@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6abc323101bc8405785a4abaf24a20c5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Materials/Dog/material_Dog_highpoly.mat
+  uploadId: 531605

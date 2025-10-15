@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4cc27015e5c3c4fd3affe26f5680e785
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Scripts/Owl/OwloneLayerControlScript.cs
+  uploadId: 531605

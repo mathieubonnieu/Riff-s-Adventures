@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5666460059c5d4d4cbe832073030ba2b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Dog/bark_shift.anim
+  uploadId: 531605

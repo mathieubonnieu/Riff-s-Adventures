@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e197b82474a342bfbafdaaf0256a6fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Egg/spring_up.anim
+  uploadId: 531605

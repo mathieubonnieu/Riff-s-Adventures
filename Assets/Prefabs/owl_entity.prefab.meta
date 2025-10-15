@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c97202f3835a544ababe077cbe58b0d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Resources/Prefabs/Owl/owl.prefab
+  uploadId: 531605

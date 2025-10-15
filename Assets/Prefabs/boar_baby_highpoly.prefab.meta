@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 703fcd742a9f84c7b94cb45325aced08
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Resources/Prefabs/Boar/boar_baby_highpoly.prefab
+  uploadId: 531605

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 841df5922936f4b74b746a266726858d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Chicken/oneLayer/peck_flapping_default.anim
+  uploadId: 531605

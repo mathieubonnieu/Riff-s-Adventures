@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d229a00f6837746b8aa3aeff5e930e86
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Chicken/twoLayer/run.anim
+  uploadId: 531605

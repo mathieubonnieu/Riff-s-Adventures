@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3075723173276171120
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1033541190781806973}
+  - component: {fileID: 7096273213127391847}
+  - component: {fileID: 8139328789697259595}
+  m_Layer: 0
+  m_Name: Dungeon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1033541190781806973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3075723173276171120}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7096273213127391847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3075723173276171120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8d83673fe4945639c116849dedc50e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfRooms: 5
+  doubleRoomChance: 0.1
+  roomPrefab: {fileID: 265334200141807331, guid: cf58578a27bd07c459c855b47a540616,
+    type: 3}
+  doubleRoomPrefab: {fileID: 3773856581994183497, guid: bae4c39695971314a8d32c0b56f2a5f5,
+    type: 3}
+  startRoomPrefab: {fileID: 265334200141807331, guid: cf58578a27bd07c459c855b47a540616,
+    type: 3}
+  itemRoomPrefab: {fileID: 8852668154992327945, guid: 1252b046dd9c34102a01b7ee526d4e14,
+    type: 3}
+  bossRoomPrefab: {fileID: 3773856581994183497, guid: bd8d1bd81392d2644902a1b49cc8ef86,
+    type: 3}
+  enemySpawningEnabled: 1
+  enemyPrefabs:
+  - {fileID: 9045683688017620870, guid: fd9f6ca7aac373d4c8bfd2f868e28a0f, type: 3}
+  - {fileID: 6424627992816937303, guid: cf13c36a357d2cb48b497b6fac1ecac8, type: 3}
+  - {fileID: 2562888594449556548, guid: fafbaef992b9c4f8aa79634dd24438cf, type: 3}
+  - {fileID: 784957396922953596, guid: e58b668a7683b4e50913a9ac62da2bed, type: 3}
+  bossPrefab: {fileID: 8633525267645165060, guid: 7e3e2acce9da64254b8de9459a4b1652,
+    type: 3}
+--- !u!114 &8139328789697259595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3075723173276171120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cdc2b3cef85b473d8da3e30f2821f22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemPrefabs:
+  - itemPrefab: {fileID: 0}
+    spawnChance: 0
+  - itemPrefab: {fileID: 6582556343785708830, guid: 218b9268621314eaea7825b9d7b6ae8d,
+      type: 3}
+    spawnChance: 100
+  - itemPrefab: {fileID: 7142053239024508668, guid: 7b8e2dae39dee49019980007a2e1a472,
+      type: 3}
+    spawnChance: 30
+  - itemPrefab: {fileID: 4512161475422312064, guid: 1c2919d6ba3634851a3d562ead535eaf,
+      type: 3}
+    spawnChance: 30
+  - itemPrefab: {fileID: 9073968699156542836, guid: f9fcab619a3544caea39623b406dfc4f,
+      type: 3}
+    spawnChance: 30
+  - itemPrefab: {fileID: 2399553420218859249, guid: cd17c5fb6684f4d248e7a59c0cb9ef3e,
+      type: 3}
+    spawnChance: 30

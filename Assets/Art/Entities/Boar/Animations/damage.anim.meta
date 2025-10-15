@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26656d93d8eca47199d1cfe41f6d4a12
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Boar/damage.anim
+  uploadId: 531605

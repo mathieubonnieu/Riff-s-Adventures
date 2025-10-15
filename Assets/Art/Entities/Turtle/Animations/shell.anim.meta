@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 008896087ce974633b5f98e205f821d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Turtle/shell.anim
+  uploadId: 531605

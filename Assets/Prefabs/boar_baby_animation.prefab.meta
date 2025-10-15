@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7c6c31ea3e2f4e3bb70d0f48d6d5726
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Resources/Prefabs/Boar/boar_baby_animation.prefab
+  uploadId: 531605

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c8d84f7f5285423cb06fdcf5d36b83d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Snake/damage.anim
+  uploadId: 531605

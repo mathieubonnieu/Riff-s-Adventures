@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e48b7a7d5de474a6899e55742ad08e54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Resources/Prefabs/Snake/Snake_highpoly.prefab
+  uploadId: 531605

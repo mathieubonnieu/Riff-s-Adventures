@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1eb09ebe3882410db739469ae45b1d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Fbx/Chicken/ChickenAvatarMask.mask
+  uploadId: 531605
