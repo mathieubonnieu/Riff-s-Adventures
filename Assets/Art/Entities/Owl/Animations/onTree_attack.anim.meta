@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3354db30b7c954ddcaac5dcee68ff487
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Owl/onTree_attack.anim
+  uploadId: 531605

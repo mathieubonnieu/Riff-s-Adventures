@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63b4fb890c6d54cb2a1de7e1d43b2c97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Turtle/attack.anim
+  uploadId: 531605

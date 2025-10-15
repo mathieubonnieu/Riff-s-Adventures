@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a87176b2a72946a8a6e2516f0d403b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Animators/Owl/OwltwoLayerAnimator.controller
+  uploadId: 531605

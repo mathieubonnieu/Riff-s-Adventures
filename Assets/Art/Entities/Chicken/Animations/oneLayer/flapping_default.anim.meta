@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da5830300f7e64c9a8edd9be6b52c8a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Chicken/oneLayer/flapping_default.anim
+  uploadId: 531605

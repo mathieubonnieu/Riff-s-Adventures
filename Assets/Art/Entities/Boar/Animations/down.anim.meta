@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a2aecdc77c934bc59626c72aaca8abf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Boar/down.anim
+  uploadId: 531605

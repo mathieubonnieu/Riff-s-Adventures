@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c80605942260a4ceaa1758c4e99be8f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Boar/brake.anim
+  uploadId: 531605

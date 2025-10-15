@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bac063683b12540529ae887b9ef8ce3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Dog/walk.anim
+  uploadId: 531605

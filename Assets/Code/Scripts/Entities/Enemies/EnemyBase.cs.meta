@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d4f84cab43747de489efc658b166433b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damageMaterial: {instanceID: 0}
+  - DamageParticle: {fileID: 685181713561079723, guid: 03904d9ab1bc246e3a087d4052b3acbb,
+      type: 3}
+  - DeathParticle: {fileID: 685181713561079723, guid: eafd218a25f7945d59f7027cbf8b8dd8,
+      type: 3}
+  - DeathExplosionParticle: {fileID: 4362901541299377147, guid: 79204d3920a77754b84a7d0704ecafd2,
+      type: 3}
+  - healthBarPrefab: {fileID: 9149534665583538118, guid: 2a62fe735f97635448b6fa75a8f4c60c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

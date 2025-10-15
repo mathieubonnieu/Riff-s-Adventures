@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: beeaf5263c87e46d3a971a96ef6b73d5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Resources/Prefabs/Snake/Snake_animation.prefab
+  uploadId: 531605

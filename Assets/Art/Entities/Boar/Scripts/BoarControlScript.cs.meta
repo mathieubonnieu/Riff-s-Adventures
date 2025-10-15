@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2f0dba250a834be591ca1236dd56bfb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Scripts/Boar/BoarControlScript.cs
+  uploadId: 531605

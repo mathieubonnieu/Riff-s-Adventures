@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67eb6ab9431b74027a725e805700a1f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Egg/stop.anim
+  uploadId: 531605

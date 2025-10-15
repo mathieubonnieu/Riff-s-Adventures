@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: add09de2bd07e4a43888300d1195dad0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/Resources/Prefabs/Chicken/chicken_twoLayer.prefab
+  uploadId: 531605

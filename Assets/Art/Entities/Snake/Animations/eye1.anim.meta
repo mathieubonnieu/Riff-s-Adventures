@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ad107b7356da4c0caba54ff9ef22af4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Snake/eye1.anim
+  uploadId: 531605

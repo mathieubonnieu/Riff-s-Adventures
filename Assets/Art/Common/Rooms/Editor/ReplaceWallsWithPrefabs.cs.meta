@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b53d07b2f2a3648708981334f39ba0c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - wallPrefab: {fileID: 492871029189772475, guid: 8699ed7b5092147b38635d99a6947b66,
+      type: 3}
+  - wallHalfPrefab: {fileID: 2475304124928936770, guid: f6340f9ea63a24391a5eef28352f90ff,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

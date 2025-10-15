@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97b018917fdf8456c9d1a68e3d5f3958
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Turtle/eat.anim
+  uploadId: 531605

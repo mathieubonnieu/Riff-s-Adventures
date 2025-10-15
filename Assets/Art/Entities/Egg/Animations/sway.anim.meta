@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc69c2bcb3b3b4f06985841d322397e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225303
+  packageName: Animals 3D
+  packageVersion: 1.0
+  assetPath: Assets/Animals3D/AnimationClips/Egg/sway.anim
+  uploadId: 531605
