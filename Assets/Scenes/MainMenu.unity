@@ -1485,7 +1485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7be65140d94961e4eac0542705fe8a43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}
+  sceneName: Game
   overlay: {fileID: 450914967}
 --- !u!1 &1184741594
 GameObject:

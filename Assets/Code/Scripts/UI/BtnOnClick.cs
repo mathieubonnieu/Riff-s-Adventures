@@ -1,13 +1,12 @@
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using UnityEngine;
-using UnityEditor;
 using System.Collections;
 
 public class BtnOnClick : MonoBehaviour
 {
     [Tooltip("Name of the scene to load when the button is clicked.")]
-    public SceneAsset scene;
+    public string sceneName;
 
     public Overlay overlay;
 
@@ -26,7 +25,7 @@ public class BtnOnClick : MonoBehaviour
 
     public void LoadScene()
     {
-        if (!string.IsNullOrEmpty(scene.name))
+        if (!string.IsNullOrEmpty(sceneName))
         {
             StartCoroutine(LoadSceneAfterFade());
         }
@@ -45,7 +44,7 @@ public class BtnOnClick : MonoBehaviour
             yield return null;
         }
 
-        SceneManager.LoadScene(scene.name);
+        SceneManager.LoadScene(sceneName);
     }
 
 }

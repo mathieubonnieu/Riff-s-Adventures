@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 
 public class MeteorShower : MonoBehaviour
@@ -33,6 +32,7 @@ public class MeteorShower : MonoBehaviour
     {
         Vector2 randomCircle = UnityEngine.Random.insideUnitCircle * radius;
         Vector3 randomPosition = transform.position;
+        
         randomPosition.x = transform.position.x + randomCircle.x;
         randomPosition.z = transform.position.z + randomCircle.y;
 
@@ -44,6 +44,20 @@ public class MeteorShower : MonoBehaviour
     void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
-        Handles.DrawWireDisc(transform.position, Vector3.up, radius);
+        DrawWireCircle(transform.position, radius, 32);
+    }
+
+    void DrawWireCircle(Vector3 center, float radius, int segments)
+    {
+        float angleStep = 360f / segments;
+        Vector3 prevPoint = center + new Vector3(Mathf.Cos(0) * radius, 0, Mathf.Sin(0) * radius);
+        
+        for (int i = 1; i <= segments; i++)
+        {
+            float angle = Mathf.Deg2Rad * angleStep * i;
+            Vector3 newPoint = center + new Vector3(Mathf.Cos(angle) * radius, 0, Mathf.Sin(angle) * radius);
+            Gizmos.DrawLine(prevPoint, newPoint);
+            prevPoint = newPoint;
+        }
     }
 }

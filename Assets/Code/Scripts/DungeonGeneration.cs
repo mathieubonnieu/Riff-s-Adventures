@@ -6,8 +6,8 @@ public class DungeonGeneration : MonoBehaviour
     [Header("Sturcture")]
     public int numberOfRooms = 20;
     public float doubleRoomChance = 0.5f;
-    public GameObject roomPrefab;
-    public GameObject doubleRoomPrefab;
+    public GameObject[] roomPrefabs = new GameObject[3];
+    public GameObject[] doubleRoomPrefabs = new GameObject[3];
     public GameObject startRoomPrefab;
     public GameObject itemRoomPrefab;
 
@@ -90,7 +90,10 @@ public class DungeonGeneration : MonoBehaviour
     void createDoobleRoom(Vector2 position, int valid = -1, GameObject room = null)
     {
         if (room == null)
-            room = doubleRoomPrefab;
+        {
+            if (doubleRoomPrefabs != null && doubleRoomPrefabs.Length > 0)
+                room = doubleRoomPrefabs[Random.Range(0, doubleRoomPrefabs.Length)];
+        }
         if (valid == -1)
                 valid = placeForDoubleRoom(position);
         if (valid == 0)
@@ -323,7 +326,8 @@ public class DungeonGeneration : MonoBehaviour
                 }
                 else
                 {
-                    createRoom(position, roomPrefab);
+                    GameObject selectedRoomPrefab = roomPrefabs[Random.Range(0, roomPrefabs.Length)];
+                    createRoom(position, selectedRoomPrefab);
                 }
             }
         }
