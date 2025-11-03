@@ -74,4 +74,8 @@ crashlytics-build.properties
 
 "Assets/Enemies/Owl/Owl_high.OBJ"
 
+# Build folders
 "BuildDeTest/"
+"build de test/"
+/BuildDeTest/
+/build de test/
